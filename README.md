@@ -2,11 +2,11 @@
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
-- adicionado teste com jenkins local - ISTO É UM TESTE! XXXXX ZZZZZ YYYY
+- adicionado teste com jenkins local - ISTO É UM TESTE! 
 
 ## Running the app
 
-You need a Java JDK 7 or later to run the build. You can run the build like this: AAA BBB CCC DDD
+You need a Java JDK 7 or later to run the build. You can run the build like this: AA
  
     ./gradlew build
 
